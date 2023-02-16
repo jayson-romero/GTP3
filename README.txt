@@ -13,3 +13,5 @@ Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Ful
 
 
 1:49:35  - props
+
+3:17:11 - Deployment 
